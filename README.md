@@ -1,6 +1,7 @@
 # Data_Structure_with_Python
 数据结构与算法的学习笔记
-主要参考：[书籍：数据结构与算法（Python）](https://jackkuo666.github.io/Data_Structure_with_Python_book/)和B站配套视频(https://www.bilibili.com/video/av20982396?from=search&seid=10307898743755297025)
+
+主要参考：[书籍：数据结构与算法（Python）](https://jackkuo666.github.io/Data_Structure_with_Python_book/)和[B站配套视频](https://www.bilibili.com/video/av20982396?from=search&seid=10307898743755297025)
 
 
 
