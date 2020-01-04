@@ -1,9 +1,15 @@
 # Data_Structure_with_Python
-数据结构与算法的学习笔记
+数据结构与算法（python语言）的学习笔记
 
 主要参考：[书籍：数据结构与算法（Python）](https://jackkuo666.github.io/Data_Structure_with_Python_book/)和[B站配套视频](https://www.bilibili.com/video/av20982396?from=search&seid=10307898743755297025)
 
-
+#算法是独立存在的一种解决问题的方法和思路。可以用多种语言描述实现。
+算法五大特点：
+1、输入：算法具有0个或多个输入
+2、输出：算法具有1个或者多个输出
+3、有穷性：有限步骤、有限时间
+4、确定性：算法每一步具有确定地含义
+5、可行性：每一步能执行有限次数完成
 
  
 # [0.0.算法效率衡量](https://github.com/JackKuo666/Data_Structure_with_Python/blob/master/0.0.%E7%AE%97%E6%B3%95%E6%95%88%E7%8E%87%E8%A1%A1%E9%87%8F.md)
